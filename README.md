@@ -11,4 +11,4 @@ https://user-images.githubusercontent.com/53919885/136870296-9cd80ffc-89b8-47bd-
 
 Developer Instructions:
 
-Clone the repository on XCode and build to test the app. Main files that were edited are : ContentView.swift and SplitMyBillApp.swift
+Clone the repository on XCode and build to test the app. To check the main files that were edited : Go to shared -> ContentView.swift and SplitMyBillApp.swift
