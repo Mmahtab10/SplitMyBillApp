@@ -8,3 +8,7 @@ It has an animated background that changes with time. There is a "Calculate" but
 https://user-images.githubusercontent.com/53919885/136870296-9cd80ffc-89b8-47bd-8569-006b55899216.mp4
 
 
+
+Developer Instructions:
+
+Clone the repository on XCode and build to test the app. Main files that were edited are : ContentView.swift and SplitMyBillApp.swift
